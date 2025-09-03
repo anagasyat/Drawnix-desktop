@@ -1,0 +1,2 @@
+# Drawnix-desktop
+Drawnix离线版，通过python内置监听模拟服务器环境，使npm构建的web产物可以直接运行在本机端口，无需额外配置
